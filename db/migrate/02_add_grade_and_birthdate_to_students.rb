@@ -1,1 +1,7 @@
-class AddGradeAndBirthdateColumns < ActiveRecord::Migration[5.2]
+class AddGradeAndBirthdateColumns < ActiveRecord::Migration[5.1]
+  
+  def change 
+  end 
+  
+  
+end 
